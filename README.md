@@ -1,2 +1,2 @@
-# js_quick_sort
+# insertion_sort
 Created with CodeSandbox
